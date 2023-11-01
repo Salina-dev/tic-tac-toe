@@ -14,4 +14,4 @@ authors = ["rust.buzz@gmail.com"]
 opt-level = 1
 
 [profile.release]
-opt-level = 3
+opt-level = 2
