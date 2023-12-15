@@ -1,4 +1,4 @@
-# Substrate Node Template
+# Tic-tac-toe game based on Substrate Node Template
 
 A fresh [Substrate](https://substrate.io/) node, ready for hacking :rocket:
 
